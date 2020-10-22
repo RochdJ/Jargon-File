@@ -1,0 +1,36 @@
+body{
+    background-color: hsl(198, 50%, 85%);
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 35pt;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+h2 {
+    background-color: dodgerblue;
+    font-size: 26pt;
+}
+
+h3 {
+    background-color: lightskyblue;
+    color: white;
+    font-size: 18pt;
+}
+
+p {
+    text-align: justify;
+}
+
+blockquote {
+    font-style: oblique;
+}
+
+pre {
+    background-color: white;
+    font-size: 12pt;
+    font-weight: bold;
+}
